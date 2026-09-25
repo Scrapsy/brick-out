@@ -24,3 +24,5 @@ Run `live-server` from root-folder
 # Credits
 
 Music made by Thobias Bjerlo
+
+Font: Jacquarda Bastarda 9 by Sarah Cadigan-Fried
