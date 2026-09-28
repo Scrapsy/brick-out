@@ -129,6 +129,8 @@ export class Controller {
             this.is_zero = new_state;
             this.did_zero = new_state;
         }
+        e.stopPropagation();
+        e.preventDefault();
     }
 
     updateMouseMovement(e) {
